@@ -1,1 +1,2 @@
 # my-resume
+![](resume.jpeg)
